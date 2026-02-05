@@ -112,33 +112,6 @@ Aplica na própria vida o que ensina
 
 Demonstra coerência entre discurso e prática
 
-🧠 Resumo rápido
-
-Um educador financeiro é conhecedor, ético, didático, empático e atualizado, ajudando as pessoas a tomar decisões financeiras conscientes e sustentáveis.
-
-Se quiser, posso:
-
-Transformar isso em texto dissertativo
-
-Adaptar para nível fundamental ou médio
-
-Criar resposta curta de prova
-
-Montar um perfil profissional
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 
