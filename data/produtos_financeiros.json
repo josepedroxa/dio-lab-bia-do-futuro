@@ -24,11 +24,11 @@
     "indicado_para": "Quem pode esperar 90 dias (isento de IR)"
   },
   {
-    "nome": "Fundo Multimercado",
+    "nome": "Fundo Imboliario (FII)",
     "categoria": "fundo",
     "risco": "medio",
-    "rentabilidade": "CDI + 2%",
-    "aporte_minimo": 500.00,
+    "rentabilidade": "6% + 12%",
+    "aporte_minimo": 100.00,
     "indicado_para": "Perfil moderado que busca diversificação"
   },
   {
@@ -38,5 +38,26 @@
     "rentabilidade": "Variável",
     "aporte_minimo": 100.00,
     "indicado_para": "Perfil arrojado com foco no longo prazo"
+
+
+    {
+    "nome": "Meta Orçamentaria  (PF)",
+    "categoria": "fundo",
+    "risco": "medio",
+    "rentabilidade": "12% + 14%",
+    "aporte_minimo": 450.00,
+    "indicado_para": "Perfil moderado, e diversificado "
+  },
+
+
+    {
+    "nome": "Meta Orçamentaria  (PJ)",
+    "categoria": "fundo",
+    "risco": "alto",
+    "rentabilidade": "75% + 95%",
+    "aporte_minimo": 1000000.00,
+    "indicado_para": "Perfil  Alto Risco,  buscar investimentos em consultoria  "
+  },
+  
   }
 ]
