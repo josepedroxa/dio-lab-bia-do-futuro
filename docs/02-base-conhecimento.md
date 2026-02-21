@@ -4,7 +4,7 @@
 
 Descreva se usou os arquivos da pasta `data`, por exemplo:
 
-| Arquivo | Formato | Utilização no Agente |
+| Arquivo | Formato | Agente Robert IA Finance  |
 |---------|---------|---------------------|
 | `historico_atendimento.csv` | CSV | Contextualizar interações anteriores , dar continuidade ao atendimento de forma mais eficiente .|
 | `perfil_investidor.json` | JSON | Personalizar as explicações sobre as duvidas e necessidades de aprendizado do cliente  |
@@ -27,7 +27,13 @@ Descreva se usou os arquivos da pasta `data`, por exemplo:
 ## Estratégia de Integração
 
 ### Como os dados são carregados?
-> Descreva como seu agente acessa a base de conhecimento.
+>
+>import json
+import  pandas as pd
+perfil = json.load (open('./data/perfil_investidor.jason'))
+transacoes = pd.read_csv('./data/transacoes.csv')
+historico = pd.read_csv('./data/historico_atendimento')
+produtos = json.load(open('./data/produtos_financeiros.json'))
 
 [ex: Os JSON/CSV são carregados no início da sessão e incluídos no contexto do prompt]
 
